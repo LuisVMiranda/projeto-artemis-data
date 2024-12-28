@@ -4,7 +4,6 @@ main = function()
 		"System/itemInfo_Prere.lub",
 		"System/itemInfo_bRO.lub",
 		"System/itemInfo_EN.lub",
-		"System/database.c",
 	}
 
 	_TempItems = {}
