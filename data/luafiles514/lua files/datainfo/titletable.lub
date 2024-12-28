@@ -1,0 +1,56 @@
+title_tbl = {
+	[1000] = "Jovem",
+	[1001] = "Especialista",
+	[1002] = "Mestre",
+	[1003] = "Profissional",
+	[1004] = "Expert",
+	[1005] = "Aventureiro",
+	[1006] = "Oficial",
+	[1007] = "Ás",
+	[1008] = "Potente",
+	[1009] = "Louco(a)",
+	[1010] = "Pedra Imortal",
+	[1011] = "Relâmpago Dourado",
+	[1012] = "Afiado(a)",
+	[1013] = "Sortudo(a)",
+	[1014] = "Reencarnado(a)",
+	[1015] = "Maníaco(a)",
+	[1016] = "Renascido(a)",
+	[1017] = "Sanguinário(a)",
+	[1018] = "Teletransportador",
+	[1019] = "Sufocado(a)",
+	[1020] = "Apostador(a)",
+	[1021] = "Mestre de Batalha",
+	[1022] = "Cônjuge",
+	[1023] = "Persistente",
+	[1024] = "Experiente",
+	[1025] = "Poring",
+	[1026] = "Entomologista",
+	[1027] = "Amante de Bicho",
+	[1028] = "Contratante",
+	[1029] = "Monstrenga",
+	[1030] = "Monstrinho",
+	[1031] = "Visionário(a)",
+	[1032] = "Bebê",
+	[1033] = "Responsável",
+	[1034] = "VIP",
+	[1035] = "Caçador de Orc",
+	[1036] = "Caçador de Orc Herói",
+	[1037] = "Caçador de Tartarugas",
+	[1038] = "Caçador de Dríade",
+	[1039] = "Caçador de Relógio",
+	[1040] = "Caçador de Raydric",
+	[1041] = "Caçador da Morte",
+	[1042] = "Caçador de Mortos-vivos",
+	[1043] = "Caçador de Strouf",
+	[1044] = "Caçador de Sting",
+	[1045] = "Conquistador",
+	[1046] = "Influenciador"
+}
+
+GetTitleString = function(titleID)
+	if title_tbl[titleID] ~= nil then
+		return title_tbl[titleID]
+	end
+	return ""
+end
