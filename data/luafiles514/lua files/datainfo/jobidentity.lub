@@ -4272,7 +4272,6 @@ JTtbl = {
 	JT_4JOB_KINGS_NIGHT = 20823,
 	JT_Addax = 30000,
 	JT_Frozen_Corpse = 30001,
-	
 	-- Last line
 	JT_LAST = 25018
 }

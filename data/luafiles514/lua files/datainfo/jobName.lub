@@ -5370,6 +5370,10 @@ JobNameTable = {
 	[jobtbl.JT_CAPOO_Collabo_TW] = "capoo_tw",
 	[jobtbl.JT_PITAYA_R_PET] = "E_PITAYA_PET",
 	-- Custom
+	[jobtbl.JT_Oraculo_B] = "oraculo_b",
+	[jobtbl.JT_Oraculo_A] = "oraculo_a",
+	[jobtbl.JT_Oraculo_S] = "oraculo_s",
+	[jobtbl.JT_Barricade_sm] = "barricade_sm",
 	[jobtbl.JT_Addax] = "Addax",
 	[jobtbl.JT_Frozen_Corpse] = "Frozen_Corpse",
 }
