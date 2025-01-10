@@ -4373,7 +4373,7 @@ SKILL_INFO_LIST = {
 		"PR_SUFFRAGIUM",
 		SkillName = "Suffragium",
 		MaxLv = 3,
-		SpAmount = { 45, 57, 69 },
+		SpAmount = { 48, 48, 48 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1 },
 		_NeedSkillList = {
@@ -6198,9 +6198,9 @@ SKILL_INFO_LIST = {
 		"AS_SPLASHER",
 		SkillName = "Explosão Tóxica",
 		MaxLv = 10,
-		SpAmount = { 12, 14, 16, 18, 20, 22, 24, 26, 28, 30 },
+		SpAmount = { 10, 10, 12, 12, 14, 16, 18, 20, 22, 24 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
+		AttackRange = { 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 },
 		_NeedSkillList = {
 			{ SKID.AS_VENOMDUST, 5 },
 			{ SKID.AS_POISONREACT, 5 }
@@ -9361,7 +9361,7 @@ SKILL_INFO_LIST = {
 		"BA_DISSONANCE",
 		SkillName = "Dissonância",
 		MaxLv = 5,
-		SpAmount = { 35, 38, 41, 44, 47 },
+		SpAmount = { 18, 21, 24, 27, 30 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -9422,7 +9422,7 @@ SKILL_INFO_LIST = {
 		"BA_ASSASSINCROSS",
 		SkillName = "Crepúsculo Sangrento",
 		MaxLv = 10,
-		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
+		SpAmount = { 38, 41, 44, 47, 50, 53, 56, 59, 62, 65 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -9444,7 +9444,7 @@ SKILL_INFO_LIST = {
 		"BA_POEMBRAGI",
 		SkillName = "Poema de Bragi",
 		MaxLv = 10,
-		SpAmount = { 65, 70, 75, 80, 85, 90, 95, 100, 105, 110 },
+		SpAmount = { 40, 45, 50, 55, 60, 65, 70, 75, 80, 85 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {

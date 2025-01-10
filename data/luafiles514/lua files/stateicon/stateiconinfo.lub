@@ -7081,6 +7081,19 @@ StateIconList[EFST_IDs.EFST_SPCONS10] = {
 	}
 }
 
+StateIconList[EFST_IDs.EFST_GUILD_SYS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "Ranking de Clãs", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Buffs de clã ativos." },
+		{ "Saiba mais: @guildbuff." },
+		{ "- Removido ao deslogar/morrer." },
+		{ "- Não funciona durante WoE." }
+	}
+}
+
 StateIconList[EFST_IDs.EFST_EQUIP_HIDE] = {
 	descript = {
 		{ "Visualizacao de equipamento desativada", COLOR_TITLE_TOGGLE }

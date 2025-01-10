@@ -11,6 +11,18 @@ mapTbl = {
 		signName = { subTitle = "Obscuridão Em Sua Essência", mainTitle = "Covil Secreto" },
 		backgroundBmp = "dungeon"
 	},
+	["ars_fild06.rsw"] = {
+		displayName = "Palácio dos Pecados",
+		notifyEnter = true,
+		signName = { subTitle = "Fortaleza de Rune Midgard", mainTitle = "Palácio dos Pecados" },
+		backgroundBmp = "dungeon"
+	},
+	["ars_dun05.rsw"] = {
+		displayName = "Calabouço Milenar",
+		notifyEnter = true,
+		signName = { subTitle = "Calabouço de Rune Midgard", mainTitle = "Calabouço Milenar" },
+		backgroundBmp = "dungeon"
+	},
 	["1@yuno.rsw"] = {
 		displayName = "Juno Em Ruínas",
 		notifyEnter = true,

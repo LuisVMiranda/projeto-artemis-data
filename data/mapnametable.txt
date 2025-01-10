@@ -1107,9 +1107,9 @@ prt_fild05.rsw#Prontera Field#
 prt_intr01.rsw#Inside Prontera#
 prt_intr01_a.rsw#Inside Prontera#
 prt_intr02.rsw#Inside Prontera#
-prt_vilg00.rsw#Prontera Village#
-prt_vilg01.rsw#Prontera Village#
-prt_vilg02.rsw#Prontera Village#
+prt_vilg00.rsw#Vila de Prontera#
+prt_vilg01.rsw#Vila de Prontera#
+prt_vilg02.rsw#Vila de Prontera#
 tank_test.rsw#Tank Test 1#
 tank_test2.rsw#Tank Test 2#
 test.rsw#Test Map#
@@ -1339,3 +1339,6 @@ bg_td.rsw#Battleground Touch Down#
 bg_pb.rsw#Battleground Poring Ball#
 
 frt_darmain.rsw#Fortaleza Darmain#
+
+ars_fild06.rsw#Palácio dos Pecados#
+ars_dun05.rsw#Calabouço Milenar#
