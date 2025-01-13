@@ -1,0 +1,514 @@
+[
+  {
+    "id": "1",
+    "name": "Novice"
+  },
+  {
+    "id": "2",
+    "name": "Swordman"
+  },
+  {
+    "id": "3",
+    "name": "Magician"
+  },
+  {
+    "id": "4",
+    "name": "Acolyte"
+  },
+  {
+    "id": "5",
+    "name": "Merchant"
+  },
+  {
+    "id": "6",
+    "name": "Thief"
+  },
+  {
+    "id": "7",
+    "name": "Knight"
+  },
+  {
+    "id": "8",
+    "name": "Priest"
+  },
+  {
+    "id": "9",
+    "name": "Wizard"
+  },
+  {
+    "id": "10",
+    "name": "Blacksmith"
+  },
+  {
+    "id": "11",
+    "name": "Hunter"
+  },
+  {
+    "id": "12",
+    "name": "Assassin"
+  },
+  {
+    "id": "13",
+    "name": "Crusader"
+  },
+  {
+    "id": "14",
+    "name": "Crusader"
+  },
+  {
+    "id": "15",
+    "name": "Monk"
+  },
+  {
+    "id": "16",
+    "name": "Sage"
+  },
+  {
+    "id": "17",
+    "name": "Rogue"
+  },
+  {
+    "id": "18",
+    "name": "Alchemist"
+  },
+  {
+    "id": "19",
+    "name": "Bard"
+  },
+  {
+    "id": "20",
+    "name": "Dancer"
+  },
+  {
+    "id": "4001",
+    "name": "Novice High"
+  },
+  {
+    "id": "4002",
+    "name": "Swordman High"
+  },
+  {
+    "id": "4003",
+    "name": "Magician High"
+  },
+  {
+    "id": "4004",
+    "name": "Archer High"
+  },
+  {
+    "id": "4005",
+    "name": "Acolyte High"
+  },
+  {
+    "id": "4006",
+    "name": "Merchant High"
+  },
+  {
+    "id": "4007",
+    "name": "Thief High"
+  },
+  {
+    "id": "4008",
+    "name": "Lord Knigth"
+  },
+  {
+    "id": "4009",
+    "name": "High Priest"
+  },
+  {
+    "id": "4010",
+    "name": "Wizard High"
+  },
+  {
+    "id": "4011",
+    "name": "Whitesmith High"
+  },
+  {
+    "id": "4012",
+    "name": "Sniper"
+  },
+  {
+    "id": "4013",
+    "name": "Assassin Cross"
+  },
+  {
+    "id": "4014",
+    "name": "High Priest"
+  },
+  {
+    "id": "4015",
+    "name": "Paladin"
+  },
+  {
+    "id": "4016",
+    "name": "Champion"
+  },
+  {
+    "id": "4017",
+    "name": "Professor"
+  },
+  {
+    "id": "4018",
+    "name": "Stalker"
+  },
+  {
+    "id": "4019",
+    "name": "Creator"
+  },
+  {
+    "id": "4020",
+    "name": "Clow"
+  },
+  {
+    "id": "4021",
+    "name": "Gypsy"
+  },
+  {
+    "id": "4022",
+    "name": "Gypsy"
+  },
+  {
+    "id": "4054",
+    "name": "Rune Knight"
+  },
+  {
+    "id": "4055",
+    "name": "Warlock"
+  },
+  {
+    "id": "4056",
+    "name": "Ranger"
+  },
+  {
+    "id": "4057",
+    "name": "Arch Bishop"
+  },
+  {
+    "id": "4058",
+    "name": "Mechanic"
+  },
+  {
+    "id": "4059",
+    "name": "Guillotine Cross"
+  },
+  {
+    "id": "4060",
+    "name": "Royal Guard"
+  },
+  {
+    "id": "4061",
+    "name": "Sorcerer"
+  },
+  {
+    "id": "4062",
+    "name": "Minstrel"
+  },
+  {
+    "id": "4063",
+    "name": "Wanderer"
+  },
+  {
+    "id": "4064",
+    "name": "Sura"
+  },
+  {
+    "id": "4065",
+    "name": "Genetic"
+  },
+  {
+    "id": "4066",
+    "name": "Rune Knight Trans"
+  },
+  {
+    "id": "4067",
+    "name": "Warlock Trans"
+  },
+  {
+    "id": "4068",
+    "name": "Ranger Trans"
+  },
+  {
+    "id": "4069",
+    "name": "Arch Bishop Trans"
+  },
+  {
+    "id": "4070",
+    "name": "Mechanic Trans"
+  },
+  {
+    "id": "4071",
+    "name": "Guillotine Cross Trans"
+  },
+  {
+    "id": "4072",
+    "name": "Royal Guard Trans"
+  },
+  {
+    "id": "4073",
+    "name": "Sorcerer Trans"
+  },
+  {
+    "id": "4074",
+    "name": "Minstrel Trans"
+  },
+  {
+    "id": "4075",
+    "name": "Wanderer Trans"
+  },
+  {
+    "id": "4076",
+    "name": "Sura Trans"
+  },
+  {
+    "id": "4077",
+    "name": "Genetic Trans"
+  },
+  {
+    "id": "4078",
+    "name": "Shadow Chaser"
+  },
+  {
+    "id": "4252",
+    "name": "Dragon Knight"
+  },
+  {
+    "id": "4253",
+    "name": "Meister"
+  },
+  {
+    "id": "4254",
+    "name": "Shadow Cross"
+  },
+  {
+    "id": "4255",
+    "name": "Arch Mage"
+  },
+  {
+    "id": "4256",
+    "name": "Cardinal"
+  },
+  {
+    "id": "4257",
+    "name": "Wind Hawk"
+  },
+  {
+    "id": "4258",
+    "name": "Imperial Guard"
+  },
+  {
+    "id": "4259",
+    "name": "Abyss Chaser"
+  },
+  {
+    "id": "4260",
+    "name": "Elemental Master"
+  },
+  {
+    "id": "4261",
+    "name": "Inquisitor"
+  },
+  {
+    "id": "4262",
+    "name": "Trouvere"
+  },
+  {
+    "id": "4263",
+    "name": "Troubadour"
+  },
+  {
+    "id": "23",
+    "name": "Super Novice"
+  },
+  {
+    "id": "24",
+    "name": "Gunslinger"
+  },
+  {
+    "id": "25",
+    "name": "Ninja"
+  },
+  {
+    "id": "4045",
+    "name": "Super Baby"
+  },
+  {
+    "id": "4046",
+    "name": "Taekwon"
+  },
+  {
+    "id": "4047",
+    "name": "Star Gladiator"
+  },
+  {
+    "id": "4048",
+    "name": "Soul Linker"
+  },
+  {
+    "id": "4109",
+    "name": "Ex Super Novice"
+  },
+  {
+    "id": "4110",
+    "name": "Ex Super Baby"
+  },
+  {
+    "id": "4211",
+    "name": "Kagerou"
+  },
+  {
+    "id": "4212",
+    "name": "Oboro"
+  },
+  {
+    "id": "4215",
+    "name": "Rebellion"
+  },
+  {
+    "id": "4218",
+    "name": "Summoner"
+  },
+  {
+    "id": "4230",
+    "name": "Star Emperor"
+  },
+  {
+    "id": "4231",
+    "name": "Soul Reaper"
+  },
+  {
+    "id": "4302",
+    "name": "Sky Emperor"
+  },
+  {
+    "id": "4303",
+    "name": "Soul Ascetic"
+  },
+  {
+    "id": "4304",
+    "name": "Shinkiro"
+  },
+  {
+    "id": "4305",
+    "name": "Shiranui"
+  },
+  {
+    "id": "4306",
+    "name": "Night Watch"
+  },
+  {
+    "id": "4307",
+    "name": "Hyper Novice"
+  },
+  {
+    "id": "4308",
+    "name": "Spirit Handler"
+  },
+  {
+    "id": "4023",
+    "name": "Baby Novice"
+  },
+  {
+    "id": "4024",
+    "name": "Baby Swordman"
+  },
+  {
+    "id": "4025",
+    "name": "Baby Magician"
+  },
+  {
+    "id": "4026",
+    "name": "Baby Archer"
+  },
+  {
+    "id": "4027",
+    "name": "Baby Acolyte"
+  },
+  {
+    "id": "4028",
+    "name": "Baby Merchant"
+  },
+  {
+    "id": "4029",
+    "name": "Baby Thief"
+  },
+  {
+    "id": "4030",
+    "name": "Baby Knight"
+  },
+  {
+    "id": "4031",
+    "name": "Baby Priest"
+  },
+  {
+    "id": "4032",
+    "name": "Baby Wizard"
+  },
+  {
+    "id": "4033",
+    "name": "Baby Blacksmith"
+  },
+  {
+    "id": "4034",
+    "name": "Baby Hunter"
+  },
+  {
+    "id": "4035",
+    "name": "Baby Crusader"
+  },
+  {
+    "id": "4036",
+    "name": "Baby Monk"
+  },
+  {
+    "id": "4037",
+    "name": "Baby Rogue"
+  },
+  {
+    "id": "4038",
+    "name": "Baby Bard"
+  },
+  {
+    "id": "4039",
+    "name": "Baby Dancer"
+  },
+  {
+    "id": "4040",
+    "name": "Baby Alchemist"
+  },
+  {
+    "id": "4041",
+    "name": "Baby Bard"
+  },
+  {
+    "id": "4096",
+    "name": "Baby Rune Knight"
+  },
+  {
+    "id": "4097",
+    "name": "Baby Warlock"
+  },
+  {
+    "id": "4098",
+    "name": "Baby Ranger"
+  },
+  {
+    "id": "4099",
+    "name": "Baby Arch Bishop"
+  },
+  {
+    "id": "4100",
+    "name": "Baby Mechanic"
+  },
+  {
+    "id": "4101",
+    "name": "Baby Guillotine Cross"
+  },
+  {
+    "id": "4102",
+    "name": "Baby Royal Guard"
+  },
+  {
+    "id": "4103",
+    "name": "Baby Sorcerer"
+  }
+]
