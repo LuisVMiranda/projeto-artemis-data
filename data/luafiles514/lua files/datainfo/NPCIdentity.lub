@@ -5406,6 +5406,10 @@ jobtbl = {
 	JT_Oraculo_A = 22751,
 	JT_Oraculo_S = 22752,
 	JT_Barricade_sm = 22800,
+	JT_Orc_Lord_Green = 22810,
+	JT_Atroce_Green = 22811,
+	JT_KNIGHT_OF_STORM_GREEN = 22812,
+	JT_LORD_OF_DEATH_GREEN = 22813,
 	JT_Addax = 30000,
 	JT_Frozen_Corpse = 30001
 }

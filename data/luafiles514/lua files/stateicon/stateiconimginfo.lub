@@ -14,7 +14,7 @@ StateIconImgList = {
 		-- [EFST_IDs.EFST_VIPSTATE] = "vipstate.tga",
 		[EFST_IDs.EFST_VIPSTATE] = "vip.tga",
 		[EFST_IDs.EFST_GUILD_SYS] = "guild_sys.tga",
-		[EFST_IDs.EFST_EQUIP_HIDE] = "equipoff.tga"
+		[EFST_IDs.EFST_EQUIP_HIDE] = "equipoff.tga",
 	},
 	[PRIORITY_RED] = {
 		[EFST_IDs.EFST_HP10] = "efst_hp10.TGA",

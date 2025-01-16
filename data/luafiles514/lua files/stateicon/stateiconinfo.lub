@@ -6919,8 +6919,11 @@ StateIconList[EFST_IDs.EFST_VR_BOOK007] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_VIPSTATE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
 	descript = {
 		{ "Jogador VIP!", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_SYSTEM },
 		{ "Você está desfrutando dos seguintes benefícios:" },
 		{ "- Experiência adicional ganha (10%)." },
 		{ "- Descontos em serviços por zenies (30%)." },
