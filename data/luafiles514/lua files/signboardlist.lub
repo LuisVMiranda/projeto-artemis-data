@@ -3,14 +3,76 @@ IT_BMP = 1
 IT_SPRITE = 2
 IT_SIGNBOARD = 3
 SignBoardList = {
-	{
-		"Default",
-		157,
-		278,
-		0,
-		IT_BMP,
-		"유저인터페이스\\collection\\꽃가지.bmp",
-		"Cannot enter",
-		"#0x009EBDFF"
-	},
+	{"moro_cav", 159, 192, 12, IT_BMP, "item\\al_heal.bmp", "Test", "#0x00BDFF9E"},
+	-- Prontera --
+	{"prontera", 162, 194, 10, IT_BMP, "item\\al_heal.bmp", "Curandeira", "#0x00BDFF9E"},
+	{"prontera", 188, 198, 10, IT_BMP, "item\\c_angola_intention.bmp", "Estilista", "#0x00BDFF9E"},
+	{"prontera", 169, 204, 10, IT_BMP, "item\\avenger_lt.bmp", "Gestor PvP", "#0x00BDFF9E"},
+	{"prontera", 148, 217, 10, IT_BMP, "item\\star_of_speed.bmp", "Estatuas PvP", "#0x00BDFF9E"},
+	{"prontera", 159, 195, 12, IT_BMP, "item\\al_teleport.bmp", "Teleportadora", "#0x00BDFF9E"},
+	{"prontera", 165, 195, 12, IT_BMP, "item\\cr_synthesispotion.bmp", "Utilidades", "#0x00BDFF9E"},
+	{"prontera", 151, 195, 10, IT_BMP, "item\\vr_note_pen.bmp", "Mestra das Classes", "#0x00BDFF9E"},
+	{"prontera", 148, 195, 10, IT_BMP, "item\\bs_item_m_scroll.bmp", "Encantador Elemental", "#0x00BDFF9E"},
+	
+	{"prontera", 127, 198, 8, IT_BMP, "item\\imperial_rifine_ticket.bmp", "Resetadora", "#0x00BDFF9E"},
+	{"prontera", 129, 196, 8, IT_BMP, "item\\rg_plagiarism.bmp", "Plagiador", "#0x00BDFF9E"},
+	{"prontera", 131, 194, 8, IT_BMP, "item\\mc_pushcart.bmp", "Aluguel", "#0x00BDFF9E"},
+	{"prontera", 133, 192, 8, IT_BMP, "item\\mc_loud.bmp", "Habilidades de Platina", "#0x00BDFF9E"},
+	{"prontera", 135, 190, 8, IT_BMP, "item\\ba_poembragi2.bmp", "Gestor de Builds", "#0x00BDFF9E"},
+	
+	{"prontera", 145, 195, 10, IT_BMP, "item\\gd_guild_storage.bmp", "Kafra", "#0x00BDFF9E"},
+	{"prontera", 142, 210, 8, IT_BMP, "item\\c_poporing_mascot_costume.bmp", "Poring Race", "#0x00BDFF9E"},
+	{"prontera", 142, 206, 8, IT_BMP, "item\\gd_guardup.bmp", "Fort Darmain", "#0x00BDFF9E"},
+	{"prontera", 142, 202, 8, IT_BMP, "item\\c_poporing_muffler.bmp", "Poring Search", "#0x00BDFF9E"},
+	{"prontera", 142, 198, 8, IT_BMP, "item\\bo_woodenwarrior.bmp", "Covil Secreto", "#0x00BDFF9E"},
+	
+	--{"prontera", 148, 187, 8, IT_BMP, "item\\book_of_thoth.bmp", "Ranking PvP", "#0x00BDFF9E"},
+	{"prontera", 184, 194, 10, IT_BMP, "item\\cassock_str.bmp", "WoE Controller", "#0x00BDFF9E"},
+	{"prontera", 133, 205, 10, IT_BMP, "item\\gc_darkillusion.bmp", "Devil Square", "#0x00BDFF9E"},
+	{"prontera", 169, 208, 8, IT_BMP, "item\\loki_coin_4.bmp", "Lojas PVP", "#0x00BDFF9E"},
+	{"prontera", 170, 170, 8, IT_BMP, "item\\skid_cg_specialsinger.bmp", "Entrada VIP", "#0x00BDFF9E"},
+	{"prontera", 172, 180, 8, IT_BMP, "item\\dalcom_coin.bmp", "Doacoes Cash", "#0x00BDFF9E"},
+	
+	{"prontera", 128, 213, 8, IT_BMP, "item\\Heros_Diamond_1.bmp", "Loja Colecionavel", "#0x00BDFF9E"},
+	{"prontera", 141, 226, 8, IT_BMP, "item\\sc_dimensiondoor.bmp", "Entrada Guild Dungeon", "#0x00BDFF9E"},
+	{"prontera", 138, 223, 8, IT_BMP, "item\\gd_gloryguild.bmp", "Sistema de Clas", "#0x00BDFF9E"},
+	{"prontera", 132, 217, 8, IT_BMP, "item\\rl_richs_coin.bmp", "Banqueiro", "#0x00BDFF9E"},
+	{"prontera", 130, 215, 8, IT_BMP, "item\\book_of_thoth.bmp", "Ranking MvP", "#0x00BDFF9E"},
+	
+	{"prontera", 145, 178, 10, IT_BMP, "item\\c_filir_bag.bmp", "Raca do Dia", "#0x00BDFF9E"},
+	{"prontera", 139, 177, 12, IT_BMP, "item\\c_mvp.bmp", "Chefe Mundial", "#0x00BDFF9E"},
+	{"prontera", 141, 171, 8, IT_BMP, "item\\wet_sealed_card.bmp", "Desencantadora de Cartas", "#0x00BDFF9E"},
+	
+	{"prontera", 179, 218, 8, IT_BMP, "item\\c_1st_evt_balloon_msp.bmp", "Visuais Quest", "#0x00BDFF9E"},
+	{"prontera", 181, 216, 8, IT_BMP, "item\\gold_card.bmp", "Super Cartas", "#0x00BDFF9E"},
+	{"prontera", 183, 214, 8, IT_BMP, "item\\military_glove.bmp", "Equipamentos de Quest", "#0x00BDFF9E"},
+	{"prontera", 185, 212, 8, IT_BMP, "item\\vr_sloppy_glasses.bmp", "Chapeu de Quest", "#0x00BDFF9E"},
+	{"prontera", 187, 210, 8, IT_BMP, "item\\c_ab_hair_pk.bmp", "Recicladora de Visuais", "#0x00BDFF9E"},
+	
+	--{"prt_in", 54, 59, 8, IT_BMP, "item\\armor_stone_4.bmp", "Encantador de Options", "#0x00BDFF9E"},
+	{"prt_in", 54, 59, 7, IT_BMP, "item\\sign_rune.bmp", "Encantador de Options", "#0x00BDFF9E"},
+	{"prt_in", 57, 54, 8, IT_BMP, "item\\plain_barmund_rune2.bmp", "Encantador Runas", "#0x00BDFF9E"},
+	{"prt_in", 63, 54, 10, IT_BMP, "item\\ori_enriquecido.bmp", "Troca de Minerios", "#0x00BDFF9E"},
+	
+	-- Sala VIP --
+	--{"salavip", 130, 166, 8, IT_BMP, "item\\sc_dimensiondoor.bmp", "Teleporte para Prontera", "#0x00BDFF9E"},
+	{"salavip", 30, 117, 8, IT_BMP, "item\\cr_synthesispotion.bmp", "Utilidades VIP", "#0x00BDFF9E"},
+	{"salavip", 28, 112, 10, IT_BMP, "item\\c_angola_intention.bmp", "Estilista", "#0x00BDFF9E"},
+	--{"salavip", 137, 170, 12, IT_BMP, "item\\al_heal.bmp", "Curandeira", "#0x00BDFF9E"},
+	--{"salavip", 140, 167, 8, IT_BMP, "item\\rg_plagiarism.bmp", "Plagiador", "#0x00BDFF9E"},
+	
+	--{"salavip", 140, 156, 8, IT_BMP, "item\\ein_1hbook.bmp", "Gestor de Builds", "#0x00BDFF9E"},
+	{"salavip", 20, 129, 8, IT_BMP, "item\\pf_soulchange.bmp", "Cirurgiao", "#0x00BDFF9E"},
+	{"salavip", 27, 124, 6, IT_BMP, "item\\ac_makingarrow.bmp", "Mestre de Aljaves", "#0x00BDFF9E"},
+	{"salavip", 18, 111, 8, IT_BMP, "item\\gs_tracking.bmp", "Loja Justiceiro", "#0x00BDFF9E"},
+	{"salavip", 15, 111, 8, IT_BMP, "item\\nj_suiton.bmp", "Loja Ninja", "#0x00BDFF9E"},
+	{"salavip", 128, 61, 8, IT_BMP, "item\\am_twilight2.bmp", "Loja Alquimista", "#0x00BDFF9E"},
+	{"salavip", 136, 61, 8, IT_BMP, "item\\bs_steel.bmp", "Loja Ferreiro", "#0x00BDFF9E"},
+	--{"salavip", 134, 156, 8, IT_BMP, "item\\ht_talkiebox.bmp", "VIP Global", "#0x00BDFF9E"},
+	
+	-- Test DPS --
+	{"prt_vilg01", 135, 142, 10, IT_BMP, "item\\al_heal.bmp", "Curandeira", "#0x00BDFF9E"},
+	{"prt_vilg01", 127, 142, 12, IT_BMP, "item\\cr_synthesispotion.bmp", "Utilidades", "#0x00BDFF9E"},
+	{"prt_vilg01", 131, 142, 10, IT_BMP, "item\\gd_guild_storage.bmp", "Kafra", "#0x00BDFF9E"},
+	{"prt_vilg01", 139, 142, 12, IT_BMP, "item\\al_teleport.bmp", "Teleportadora", "#0x00BDFF9E"},
 }

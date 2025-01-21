@@ -11,6 +11,12 @@ mapTbl = {
 		signName = { subTitle = "Obscuridão Em Sua Essência", mainTitle = "Covil Secreto" },
 		backgroundBmp = "dungeon"
 	},
+	["mainhall.rsw"] = {
+		displayName = "Calabouço de Clãs",
+		notifyEnter = true,
+		signName = { subTitle = "Palácio Perdido", mainTitle = "Calabouço de Clãs" },
+		backgroundBmp = "dungeon"
+	},
 	["ars_fild06.rsw"] = {
 		displayName = "Palácio dos Pecados",
 		notifyEnter = true,

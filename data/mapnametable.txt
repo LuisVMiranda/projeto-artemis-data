@@ -1342,3 +1342,4 @@ frt_darmain.rsw#Fortaleza Darmain#
 
 ars_fild06.rsw#Palácio dos Pecados#
 ars_dun05.rsw#Calabouço Milenar#
+mainhall.rsw#Calabouço de Clãs#

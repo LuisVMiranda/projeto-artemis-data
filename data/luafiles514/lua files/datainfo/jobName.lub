@@ -5378,6 +5378,13 @@ JobNameTable = {
 	[jobtbl.JT_Atroce_Green] = "atros",
 	[jobtbl.JT_KNIGHT_OF_STORM_GREEN] = "KNIGHT_OF_WINDSTORM",
 	[jobtbl.JT_LORD_OF_DEATH_GREEN] = "LORD_OF_DEATH",
+	[jobtbl.JT_BAPHOMET_GREEN] = "baphomet_i",
+	[jobtbl.JT_LADY_TANEE_GREEN] = "lady_tanee",
+	[jobtbl.JT_CHIMERA_EQUINE] = "chimera_fulgor",
+	[jobtbl.JT_CHIMERA_FELINE] = "chimera_galensis",
+	[jobtbl.JT_CHIMERA_CHEMICAL] = "chimera_lava",
+	[jobtbl.JT_CHIMERA_MAGIKA] = "chimera_napeo",
+	[jobtbl.JT_CHIMERA_NIGHTMARE] = "chimera_theone",
 	[jobtbl.JT_Addax] = "Addax",
 	[jobtbl.JT_Frozen_Corpse] = "Frozen_Corpse",
 }

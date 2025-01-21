@@ -1190,3 +1190,4 @@ frt_darmain.rsw#bgm\\37.mp3#
 1@sch_gld.rsw#bgm\\66.mp3#
 1@sch_dun.rsw#bgm\\66.mp3#
 1@sch_cas.rsw#bgm\\66.mp3#
+mainhall.rsw#bgm\\44.mp3#

@@ -2410,6 +2410,8 @@ SKILL_DESCRIPT = {
 		"[Modificações Custom]:",
 		"^0000ff» Aumento de 10% do dano final em",
 		"alvos com menos de 50% da vida.^000000",
+		"^0000ff» Redução de atraso global pós",
+		"conjuração.^000000",
 		"Nível l ATQ l Chance",
 		"[Nv 1]:^777777 440%^000000 l ^77777712%^000000",
 		"[Nv 2]:^777777 480%^000000 l ^77777714%^000000",
