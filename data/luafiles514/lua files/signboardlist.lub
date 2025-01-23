@@ -36,6 +36,7 @@ SignBoardList = {
 	{"prontera", 128, 213, 8, IT_BMP, "item\\Heros_Diamond_1.bmp", "Loja Colecionavel", "#0x00BDFF9E"},
 	{"prontera", 141, 226, 8, IT_BMP, "item\\sc_dimensiondoor.bmp", "Entrada Guild Dungeon", "#0x00BDFF9E"},
 	{"prontera", 138, 223, 8, IT_BMP, "item\\gd_gloryguild.bmp", "Sistema de Clas", "#0x00BDFF9E"},
+	{"prontera", 144, 229, 8, IT_BMP, "item\\dalcom_coin.bmp", "Loja Guild", "#0x00BDFF9E"},
 	{"prontera", 132, 217, 8, IT_BMP, "item\\rl_richs_coin.bmp", "Banqueiro", "#0x00BDFF9E"},
 	{"prontera", 130, 215, 8, IT_BMP, "item\\book_of_thoth.bmp", "Ranking MvP", "#0x00BDFF9E"},
 	
@@ -52,7 +53,7 @@ SignBoardList = {
 	--{"prt_in", 54, 59, 8, IT_BMP, "item\\armor_stone_4.bmp", "Encantador de Options", "#0x00BDFF9E"},
 	{"prt_in", 54, 59, 7, IT_BMP, "item\\sign_rune.bmp", "Encantador de Options", "#0x00BDFF9E"},
 	{"prt_in", 57, 54, 8, IT_BMP, "item\\plain_barmund_rune2.bmp", "Encantador Runas", "#0x00BDFF9E"},
-	{"prt_in", 63, 54, 10, IT_BMP, "item\\ori_enriquecido.bmp", "Troca de Minerios", "#0x00BDFF9E"},
+	--{"prt_in", 63, 54, 10, IT_BMP, "item\\ori_enriquecido.bmp", "Troca de Minerios", "#0x00BDFF9E"},
 	
 	-- Sala VIP --
 	--{"salavip", 130, 166, 8, IT_BMP, "item\\sc_dimensiondoor.bmp", "Teleporte para Prontera", "#0x00BDFF9E"},
