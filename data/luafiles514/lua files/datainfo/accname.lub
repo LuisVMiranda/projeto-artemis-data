@@ -2272,6 +2272,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Hybrid_Gold_Fairy] = "_Hybrid_Gold_Fairy",
 	[ACCESSORY_IDs.ACCESSORY_Aura_Radiant_Purple] = "_Aura_Radiant_Purple",
 	[ACCESSORY_IDs.ACCESSORY_Aura_Radiant_Red] = "_Aura_Radiant_Red",
+	[ACCESSORY_IDs.ACCESSORY_Back_Bow] = "_Back_Bow",
 	[ACCESSORY_IDs.ACCESSORY_Low_Diabolus_Sword] = "_Low_Diabolus_Sword",
 	[ACCESSORY_IDs.ACCESSORY_Low_Giant_Sword_Black] = "_Low_Giant_Sword_Black",
 	[ACCESSORY_IDs.ACCESSORY_Low_Giant_Sword_Red] = "_Low_Giant_Sword_Red",

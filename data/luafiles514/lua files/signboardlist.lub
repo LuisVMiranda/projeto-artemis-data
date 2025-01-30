@@ -32,6 +32,7 @@ SignBoardList = {
 	{"prontera", 169, 208, 8, IT_BMP, "item\\loki_coin_4.bmp", "Lojas PVP", "#0x00BDFF9E"},
 	{"prontera", 170, 170, 8, IT_BMP, "item\\skid_cg_specialsinger.bmp", "Entrada VIP", "#0x00BDFF9E"},
 	{"prontera", 172, 180, 8, IT_BMP, "item\\dalcom_coin.bmp", "Doacoes Cash", "#0x00BDFF9E"},
+	{"prontera", 169, 177, 8, IT_BMP, "item\\buy_arbeit1_3lv.bmp", "Vote4Points", "#0x00BDFF9E"},
 	
 	{"prontera", 128, 213, 8, IT_BMP, "item\\Heros_Diamond_1.bmp", "Loja Colecionavel", "#0x00BDFF9E"},
 	{"prontera", 141, 226, 8, IT_BMP, "item\\sc_dimensiondoor.bmp", "Entrada Guild Dungeon", "#0x00BDFF9E"},
