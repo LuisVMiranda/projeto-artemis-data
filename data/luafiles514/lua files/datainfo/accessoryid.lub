@@ -2233,6 +2233,8 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_SR_Hair_YL = 2243,
 	ACCESSORY_C_Tiger_WH = 2244,
 	ACCESSORY_C_Tiger_BL = 2245,
+	ACCESSORY_C_Fire_Giant_Red = 2298,
+	ACCESSORY_C_Fire_Giant_Gold = 2299,
 	
 	-- ====== CUSTOM - PROJETO ARTEMIS ====== --
 	

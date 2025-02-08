@@ -1855,10 +1855,10 @@ Cartas#
 preço#
 Qtd:#
 Unidade(s)#
-Cash gratuito : %s C#
+ROPs gratuito : %s C#
 ROPs : %s#
 Impossível invocar monstros nessa área#
-Total de cash gratuito foi excedido#
+Total de ROPs gratuito foi excedido#
 Informação será salva em [SaveData_ExMacro%d]#
 É possível usar %d segundos mais tarde#
 Deve ter [Lança] equipada#
@@ -2789,7 +2789,7 @@ Excedeu o máximo de zeny#
 Não pode ser descartado#
 Não pode ser colocado no armazenamento#
 Não pode ser colocado no carrinho#
-Não pode ser anexado no RODEx#
+Não pode ser anexado no RODEX#
 Não pode ser negociado com o jogador#
 Não pode ser leiloado#
 Não pode ser colocado no Armazém da Guilda#
@@ -3110,12 +3110,12 @@ Incompleto#
 (Incompleto)#
 Definir Equipamentos#
 Trocar#
-Força: ^66cc33ATK^ffffff e ^66cc33Capacidade de Peso^ffffff#
+Força: ^66cc33ATQ^ffffff e ^66cc33Capacidade de Peso^ffffff#
 Agilidade: ^66cc33ASPD, ESQUIVA^ffffff e ^66cc33DEF^ffffff#
-Vitalidade: ^66cc33MaxHP, DEF^ffffff e ^66cc33MDEF^ffffff#
-Inteligência: ^66cc33MATK, Tempo de Conjuração^ffffff e ^66cc33MDEF^ffffff#
-Destreza: ^66cc33ATK à distância, HIT, MATK^ffffff e ^66cc33Tempo de conjuração^ffffff#
-Sorte: ^66cc33Crítico, HIT, ATK, MATK^ffffff e ^66cc33 Esquiva Perfeita^ffffff#
+Vitalidade: ^66cc33MaxHP, DEF^ffffff e ^66cc33DEFM^ffffff#
+Inteligência: ^66cc33ATQM, Tempo de Conjuração^ffffff e ^66cc33DEFM^ffffff#
+Destreza: ^66cc33ATQ à distância, Precisão, ATQM^ffffff e ^66cc33Tempo de conjuração^ffffff#
+Sorte: ^66cc33Crítico, Precisão, ATQ, ATQM^ffffff e ^66cc33 Esquiva Perfeita^ffffff#
 Ataque físico#
 Defesa física#
 Precisão#
@@ -3431,8 +3431,8 @@ Permitido todos os bate-papos e sussurros de todos os personagens#
 Falha ao permitir todos os bate-papos e sussurros de todos os personagens#
 Abertura#
 Deseja retornar à tela de login?#
-STR e ATK aumentados.#
-STR, INT, DEX e HIT aumentados.#
+FOR e ATQ aumentados.#
+FOR, INT, DES e Precisão aumentados.#
 HP e DEF aumentados.#
 Gelstar#
 Buff da conta#
@@ -3612,12 +3612,12 @@ Movimento livre#
 %d horas, %s %d#
 Usando o Passe Livre#
 Status de Característica#
-Potência: ^66cc33Status ATK^ffffff e ^66cc33P.ATK^ffffff#
+Potência: ^66cc33Status ATQ^ffffff e ^66cc33P.ATQ^ffffff#
 Vigor: ^66cc33Resistência Física^ffffff#
 Sabedoria: ^66cc33Resistência Mágica^ffffff#
-Feitiço: ^66cc33Status MATK^ffffff e ^66cc33S.MATK^ffffff#
-Concentração: ^66cc33HIT, FLEE, P.ATK^ffffff e ^66cc33S.MATK^ffffff#
-Criativo: ^66cc33H.Plus^ffffff e ^66cc33C.RATE^ffffff#
+Feitiço: ^66cc33Status ATQM^ffffff e ^66cc33S.ATQM^ffffff#
+Concentração: ^66cc33Precisão, Esquiva, P.ATQ^ffffff e ^66cc33S.ATQM^ffffff#
+Criativo: ^66cc33HP.Adicional^ffffff e ^66cc33Taxa de Crítico^ffffff#
 Dano Físico Final#
 Dano Mágico Final#
 Resistência Física#
@@ -3724,7 +3724,7 @@ Classificação alfabética#
 - [%s] %d ~%d Produção#
 Sucesso %d%%#
 As tags de item só podem marcar itens que você possui.#
-ATK e P.ATK foram aumentados.#
+ATQ e P.ATQ foram aumentados.#
 O efeito Fé Poderosa foi cancelado.#
 HP e Res foram aumentados.#
 O efeito Firm Faith foi cancelado.#
@@ -3734,7 +3734,7 @@ POW, CRT e CON foram aumentados.#
 O efeito Benedictum foi cancelado.#
 SPL, WIS e CRT foram aumentados.#
 Efeito religioso foi cancelado.#
-P.ATK e S.MATK foram aumentados.#
+P.ATQ e S.ATQM foram aumentados.#
 O efeito Competentia foi cancelado.#
 A chance de dano crítico foi aumentada.#
 O efeito Presens Acies foi cancelado.#
@@ -3799,9 +3799,9 @@ Res diminuiu.#
 O efeito Rhapsody of Mineworker foi cancelado.#
 Res aumentou.#
 O efeito Musical Interlude foi cancelado.#
-S.MATK e Velocidade de Movimento aumentadas.#
+S.ATQM e Velocidade de Movimento aumentadas.#
 O efeito Serenata de Jawaii foi cancelado.#
-P.ATK e Velocidade de Movimento aumentadas.#
+P.ATQ e Velocidade de Movimento aumentadas.#
 O efeito March of Prontera foi cancelado.#
 A fúria do vento flui para o corpo do lançador.#
 O efeito Calamity Gale foi cancelado.#
@@ -3810,10 +3810,10 @@ O efeito Wind Sign foi cancelado.#
 E X P : %.1f%% ( básico 100.0%% %s %.1f%%)#
 DROP  : %.1f%% ( básico 100.0%% %s %.1f%%)#
 MORTE : %.1f%% ( básico 100.0%% %s %.1f%%)#
-S.MATK aumentado.#
+S.ATQM aumentado.#
 O efeito Encantamento de Feitiço foi cancelado.#
 O efeito From the Abyss foi cancelado.#
-P.ATK, S.MATK e HIT aumentados.#
+P.ATQ, S.ATQM e Precisão aumentados.#
 O efeito Abyss Slayer foi cancelado.#
 Pode haver restrições na criação de personagens.#
 O mundo está saturado. Por favor, use outro mundo.#

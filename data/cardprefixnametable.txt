@@ -1449,3 +1449,30 @@
 300380#Nível superior#
 300381#de caça cardíaca#
 300382#Aquila#
+
+// Custom - Projeto Artemis
+50545#(Vital)#
+50546#(Espiritual)#
+50547#(Anti-Água)#
+50548#(Anti-Fogo)#
+50549#(Anti-Sombras)#
+50550#(Lutador 1)#
+50551#(Lutador 2)#
+50552#(Lutador 3)#
+50553#(Feiticeiro 1)#
+50554#(Feiticeiro 2)#
+50555#(Feiticeiro 3)#
+50556#(Curandeiro 1)#
+50557#(Curandeiro 2)#
+50558#(Curandeiro 3)#
+50559#(Resiliente 1)#
+50560#(Resiliente 2)#
+50561#(Resiliente 3)#
+50570#(Longeva)#
+50571#(Sabedora)#
+50572#(Locomotora)#
+50573#(Refletora)#
+50574#(Física)#
+50575#(Mágica)#
+50576#(Gemante)#
+50577#(Vigorosa)#

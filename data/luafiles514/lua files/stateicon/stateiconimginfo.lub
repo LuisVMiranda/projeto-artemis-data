@@ -12,7 +12,7 @@ StateIconImgList = {
 		[EFST_IDs.EFST_JUMPINGCLAN] = "eldicastes.tga",
 		[EFST_IDs.EFST_ESSENCE_OF_TIME] = "EssenceOfTime.tga",
 		-- [EFST_IDs.EFST_VIPSTATE] = "vipstate.tga",
-		[EFST_IDs.EFST_VIPSTATE] = "vip.tga",
+		[EFST_IDs.EFST_VIPSTATE] = "vip_icon.tga",
 		[EFST_IDs.EFST_GUILD_SYS] = "guild_sys.tga",
 		[EFST_IDs.EFST_EQUIP_HIDE] = "equipoff.tga",
 	},

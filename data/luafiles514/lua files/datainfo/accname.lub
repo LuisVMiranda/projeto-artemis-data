@@ -2231,6 +2231,8 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_SR_Hair_YL] = "_C_SR_Hair_YL",
 	[ACCESSORY_IDs.ACCESSORY_C_Tiger_WH] = "_C_Tiger_WH",	
 	[ACCESSORY_IDs.ACCESSORY_C_Tiger_BL] = "_C_Tiger_BL",
+	[ACCESSORY_IDs.ACCESSORY_C_Fire_Giant_Red] = "_C_Fire_Giant_Red",
+	[ACCESSORY_IDs.ACCESSORY_C_Fire_Giant_Gold] = "_C_Fire_Giant_Gold",
 	
 	-- ====== CUSTOM - PROJETO ARTEMIS ====== --
 	
