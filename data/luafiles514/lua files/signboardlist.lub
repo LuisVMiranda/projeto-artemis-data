@@ -70,4 +70,10 @@ SignBoardList = {
 	{"prt_vilg01", 127, 142, 12, IT_BMP, "item\\cr_synthesispotion.bmp", "Utilidades", "#0x00BDFF9E"},
 	{"prt_vilg01", 131, 142, 10, IT_BMP, "item\\gd_guild_storage.bmp", "Kafra", "#0x00BDFF9E"},
 	{"prt_vilg01", 139, 142, 12, IT_BMP, "item\\al_teleport.bmp", "Teleportadora", "#0x00BDFF9E"},
+	
+	-- Eden --
+	{"moc_para01", 40, 22, 10, IT_BMP, "item\\al_heal.bmp", "Curandeira", "#0x00BDFF9E"},
+	{"moc_para01", 43, 22, 10, IT_BMP, "item\\cr_synthesispotion.bmp", "Utilidades", "#0x00BDFF9E"},
+	{"moc_para01", 37, 22, 12, IT_BMP, "item\\al_teleport.bmp", "Teleportadora", "#0x00BDFF9E"},
+	
 }
