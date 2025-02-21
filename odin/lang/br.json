@@ -30,10 +30,11 @@
   "129": "Reinicie o Auto Patcher",
   "130": "Sua conta foi bloqueada, entre em contato com a Staff",
   "131": "Exite uma instância aberta do cliente, feche no gerenciador e reinicie o patcher",
-  "132": "Você realmente deseja restaurar a GRF?",
+  "132": "Você realmente deseja restaurara a GRF?",
   "133": "GRF Restaurada com sucesso, reinicie o patcher para concluir as atualizações.",
   "134": "Erro ao tentar restaurar a GRF.",
   "135": "Inserindo atualização",
   "136": "Extraindo atualização",
-  "137": "Deseja fechar o patcher?"
+  "137": "Deseja fechar o patcher?",
+  "138": "Arquivo style não autorizado"
 }
