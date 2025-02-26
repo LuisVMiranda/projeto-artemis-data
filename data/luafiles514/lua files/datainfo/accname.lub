@@ -2278,5 +2278,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Low_Diabolus_Sword] = "_Low_Diabolus_Sword",
 	[ACCESSORY_IDs.ACCESSORY_Low_Giant_Sword_Black] = "_Low_Giant_Sword_Black",
 	[ACCESSORY_IDs.ACCESSORY_Low_Giant_Sword_Red] = "_Low_Giant_Sword_Red",
-	[ACCESSORY_IDs.ACCESSORY_Hat_PvP_Top] = "_Hat_PvP_Top"
+	[ACCESSORY_IDs.ACCESSORY_Hat_PvP_Top] = "_Hat_PvP_Top",
+	[ACCESSORY_IDs.ACCESSORY_costume0752] = "_costume0752"
 }

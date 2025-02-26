@@ -2280,5 +2280,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Low_Diabolus_Sword = 2350,
 	ACCESSORY_Low_Giant_Sword_Black = 2351,
 	ACCESSORY_Low_Giant_Sword_Red = 2352,
-	ACCESSORY_Hat_PvP_Top = 2355
+	ACCESSORY_Hat_PvP_Top = 2355,
+	ACCESSORY_costume0752 = 2356
 }
