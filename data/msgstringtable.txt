@@ -1814,8 +1814,8 @@ Não existe o sufixo/prefixo selecionado#
 Você pode adquirir no máximo 10#
 Não foi possível comprar#
 Insira a data de nascimento (ex:801122)#
-Um erro ocorreu#
-Um erro no database ocorreu#
+Um erro ocorreu.#
+Um erro no banco de dados ocorreu#
 Você deve deixar o clã para remover o personagem#
 Você deve deixar o grupo para remover o personagem#
 Não é possível deletar devido a configurações#

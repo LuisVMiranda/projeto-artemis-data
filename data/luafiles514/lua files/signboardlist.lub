@@ -43,7 +43,7 @@ SignBoardList = {
 	
 	{"prontera", 145, 178, 10, IT_BMP, "item\\c_filir_bag.bmp", "Raca do Dia", "#0x00BDFF9E"},
 	-- {"prontera", 139, 177, 12, IT_BMP, "item\\c_mvp.bmp", "Chefe Mundial", "#0x00BDFF9E"},
-	-- {"prontera", 141, 171, 8, IT_BMP, "item\\wet_sealed_card.bmp", "Desencantadora de Cartas", "#0x00BDFF9E"},
+	{"prontera", 141, 171, 8, IT_BMP, "item\\wet_sealed_card.bmp", "Desencantadora de Cartas", "#0x00BDFF9E"},
 	
 	{"prontera", 179, 218, 8, IT_BMP, "item\\c_1st_evt_balloon_msp.bmp", "Visuais Quest", "#0x00BDFF9E"},
 	{"prontera", 181, 216, 8, IT_BMP, "item\\gold_card.bmp", "Super Cartas", "#0x00BDFF9E"},

@@ -7992,7 +7992,7 @@ SKILL_INFO_LIST = {
 		"CR_HOLYCROSS",
 		SkillName = "Crux Divinum",
 		MaxLv = 10,
-		SpAmount = { 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 },
+		SpAmount = { 10, 10, 11, 12, 13, 14, 15, 16, 17, 18 },
 		bSeperateLv = true,
 		AttackRange = { 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 },
 		_NeedSkillList = {
